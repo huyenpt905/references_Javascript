@@ -17,9 +17,12 @@
 
     Link :
     Link :
+1. The arguments object
+    link 1: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
+
 1. Default parameters for function
 
-    Link 1:
+    Link 1: https://dzone.com/articles/easy-javascript-part-3-what-is-a-default-parameter
     Link 2:
     Link 3:
 1. Difference between function declarations and function expresstions in javascript? 
@@ -30,38 +33,49 @@
 
     Link 3: https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/
 
-1. difference between arrow function and normal function in javascript
 
 1. Scope 
 
-    Link 1:
+    Link 1: https://wsvincent.com/javascript-scope-closures/
+
     Link 2:
     Link 3:
 1. Function Closures
 
-    Link 1:
-    Link 2:
+    Link 1: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
+    Link 2:http://unscriptable.com/2011/10/02/closures-for-dummies-or-why-iife-closure/
+
     Link 3:
 1. Callback function
 
-    Link 1:
-    Link 2:
+    Link 1: https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
+    Link 2: https://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+
     Link 3:
 
 
 1. IIFE - Immediately Invokable Function Expression
 
-    Link 1:
-    Link 2:
+    Link 1: https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+
+    Link 2: http://gregfranko.com/blog/i-love-my-iife/
+
     Link 3:
 
+1. Higher-Order Functions
+
+    Link 1-en: https://www.freecodecamp.org/news/higher-order-functions-what-they-are-and-a-react-example-1d2579faf101/
+
+    Link 2-en: https://eloquentjavascript.net/05_higher_order.html
 
 
 # OBJECT
 1. how to understand object in javascript? - Basic Object creation 
+    link 1: https://blog.halolabs.io/understanding-javascript-objects-d31cd24ca60f
 
-    Link 1:
-    Link 2:
+    Link 2: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+
     Link 3:
 1. Literals and properties
 
@@ -92,8 +106,9 @@
     Link 3:
 1. Loop an Object
 
-    Link 1:
-    Link 2:
+    Link 1: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+
+    Link 2: https://zellwk.com/blog/looping-through-js-objects/
     Link 3:
 
 
