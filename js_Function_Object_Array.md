@@ -10,6 +10,14 @@
 1. Discover the power of first class functions - what is first-class object?
 
     link 1-en: https://www.freecodecamp.org/news/discover-the-power-of-first-class-functions-fd0d7b599b69/
+    link 2-en: https://hackernoon.com/effective-functional-javascript-first-class-and-higher-order-functions-713fde8df50a
+    
+1. Higher-Order Functions
+
+    Link 1-en: https://www.freecodecamp.org/news/higher-order-functions-what-they-are-and-a-react-example-1d2579faf101/
+
+    Link 2-en: https://eloquentjavascript.net/05_higher_order.html
+
 
 1. Difference between argument and parameter in function
 
@@ -63,12 +71,6 @@
 
     Link 3:
 
-1. Higher-Order Functions
-
-    Link 1-en: https://www.freecodecamp.org/news/higher-order-functions-what-they-are-and-a-react-example-1d2579faf101/
-
-    Link 2-en: https://eloquentjavascript.net/05_higher_order.html
-
 
 # OBJECT
 1. how to understand object in javascript? - Basic Object creation 
@@ -76,34 +78,39 @@
 
     Link 2: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 
-    Link 3:
-1. Literals and properties
+    Link 3: http://javascript.info/object
+1. Three Different Ways to Create Objects in JavaScript - Literals and properties
 
-    Link 1:
+    Link 1: https://medium.com/better-programming/three-different-ways-to-create-objects-in-javascript-d3595d693296
+
     Link 2:
     Link 3:
 1. 'this' keyword
 
-    Link 1:
-    Link 2:
+    Link 1: https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8
+
+    Link 2:https://codeburst.io/all-about-this-and-new-keywords-in-javascript-38039f71780c
     Link 3:
 
 1. Understanding Object prototypes
 
-    Link 1:
-    Link 2:
+    Link 1: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
+
+    Link 2:https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
+
     Link 3:
 1. Object Constructors
 
-    Link 1:
-    Link 2:
+    Link 1: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
+
+    Link 2: https://www.geeksforgeeks.org/javascript-object-constructors/
+
     Link 3:
 
 1. Comparing & changing Objects
 
-    Link 1:
-    Link 2:
-    Link 3:
+    Link 1: https://stackoverflow.com/questions/1068834/object-comparison-in-javascript
+  
 1. Loop an Object
 
     Link 1: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
@@ -115,35 +122,36 @@
 # ARRAY
 1. how to understand arrays in javascript?
 
-    Link 1:
-    Link 2:
-    Link 3:
+    Link 1: https://developer.mozilla.org/vi/docs/Web/JavaScript/Reference/Global_Objects/Array
 
-2. Properties & Methods
+    Link 2:https://codeburst.io/all-about-javascript-arrays-in-1-article-39da12170b1c
 
-    Link 1:
-    Link 2:
-    Link 3:
+    Link 3: https://thomlom.dev/what-you-should-know-about-js-arrays/
 
 1. Iteration methods
-    Link 1:
-    Link 2:
+    Link 1: https://blog.usejournal.com/understanding-javascript-array-iteration-methods-91190ce7de02
+
+    Link 2:https://developer.mozilla.org/vi/docs/Web/JavaScript/Guide/Iterators_and_Generators
+
     Link 3:
 
 1. Array sort
 
-    Link 1:
+    Link 1: https://developer.mozilla.org/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/S%E1%BA%AFp_x%E1%BA%BFp
+
     Link 2:
     Link 3:
 
 1. Why never use new Array in Javascript?
 
-    Link 1:
+    Link 1:https://coderwall.com/p/h4xm0w/why-never-use-new-array-in-javascript
+
     Link 2:
     Link 3:
 1. How to convert array to string in javascript? - 
     5 Ways to Convert a Value to String in JavaScript
 
-    Link 1:
+    Link 1: https://medium.com/dailyjs/5-ways-to-convert-a-value-to-string-in-javascript-6b334b2fc778
+
     Link 2:
     Link 3:
